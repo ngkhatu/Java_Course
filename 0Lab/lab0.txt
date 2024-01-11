@@ -1,0 +1,13 @@
+#1 What is your name and login ID?
+Nikhil Gautam Khatu
+#2 What is your major?
+Computer Engineering
+#3 What is your lab instructor's name and what is the support email address for your lab section (hint csc116l-????@wolfware.ncsu.edu)?
+Matt Rakow, Shen Zhang- CSC116L-231-sup@wolfware.ncsu.edu
+#4 Do you have any questions regarding the paired programming labs for this semester?
+are all the labs paired?
+#5 Have you ever programmed in any other language before? If so, what other languages and how much experience do you have?
+Fortran, and currently learning C
+#6 What do you hope to gain from learning Java?
+learning a new program and being efficient at it
+#7 Do you have any concerns regarding CSC116 or CSC116L?
